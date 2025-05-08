@@ -18,12 +18,9 @@ This project aims to detect depression from user-generated text on social media 
 ## 📊 Results
 The model demonstrates strong performance in binary classification of depressive and non-depressive content using a curated dataset of social media posts.
 
-## 🛠 Requirements
-- Python 3.7+
-- TensorFlow
-- HuggingFace Transformers
-- Pandas, NumPy, Matplotlib, Seaborn
-- TQDM
+# # 🎯 Future Improvements
+Incorporate Multimodal Data: Including other forms of input such as images or videos could further improve depression detection accuracy.
 
-Install them via:
-pip install -r requirements.txt
+Cross-lingual Adaptability: Enhance the multilingual support by incorporating additional language models tailored to specific languages.
+
+Real-time Monitoring: Implement a system for real-time monitoring and detection of depressive posts as they are generated.
