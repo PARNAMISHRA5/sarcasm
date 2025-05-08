@@ -1,0 +1,25 @@
+venv/
+
+# VSCode and Python
+
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# OneDrive junk
+*.lnk
+Thumbs.db
+desktop.ini
+
+# OS Files
+.Trash-*
+.Spotlight-V100
+.TemporaryItems
+
+
